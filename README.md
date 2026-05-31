@@ -32,7 +32,6 @@ This project tackles the CIFAR-10 image classification challenge by developing a
 
 <div align="center">
   <br>
-  <strong>[INSERT GIF/IMAGE HERE - E.g., Grad-CAM Heatmap Overlay showcasing model focus areas]</strong>
   <br>
 </div>
 
