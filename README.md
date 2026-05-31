@@ -1,6 +1,7 @@
 <div align="center">
+<img width="1904" height="902" alt="image" src="https://github.com/user-attachments/assets/a7d1998b-bb67-485a-8597-3d502743b698" />
 
-# 🖼️ CIFAR-10 Image Classification: Custom CNN & Transfer Learning
+# CIFAR-10 Image Classification: Custom CNN & Transfer Learning
 *Benchmarking custom architectures against DenseNet121 and EfficientNetV2M.*
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
