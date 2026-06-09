@@ -1,7 +1,7 @@
 <div align="center">
 <img width="1904" height="902" alt="image" src="https://github.com/user-attachments/assets/a7d1998b-bb67-485a-8597-3d502743b698" />
 
-## 🔗Live Link: [Table of Contents](https://sota-cifar-10-classifier.streamlit.app/)
+## 🔗Live Link: [Streamlit Link](https://sota-cifar-10-classifier.streamlit.app/)
 # CIFAR-10 Image Classification: Custom CNN & Transfer Learning
 *Benchmarking custom architectures against DenseNet121 and EfficientNetV2M.*
 
